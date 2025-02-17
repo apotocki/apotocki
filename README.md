@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![GitHub Repo stars]([https://img.shields.io/github/stars/apotocki?style=social)
 <!--
 **apotocki/apotocki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
