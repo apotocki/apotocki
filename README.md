@@ -19,6 +19,10 @@ project needs, then integrates them with your build.
 [Documentation](https://otok-dev.github.io/) &nbsp;/&nbsp;
 [Library catalog](https://otok-dev.github.io/index/)
 
+If there's something you need otok to do, [open an issue](https://github.com/otok-dev/otok/issues).
+[Sponsoring its development](https://github.com/sponsors/apotocki) helps me dedicate
+more time to the problems that matter to you.
+
 ## Other projects
 
 - **[Numetron](https://github.com/apotocki/numetron)** — a work-in-progress C++ library exploring arbitrary-precision integers and decimals, including compile-time arithmetic.
