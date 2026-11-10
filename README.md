@@ -1,21 +1,37 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/profile-header.svg" alt="Engineering thoughtful solutions — from native libraries to developer tools">
+</p>
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=apotocki&count_private=true&theme=monokai). 
+I'm an engineer and enthusiast who enjoys finding ways to make things work better.
+I like hiding repetitive work behind elegant, dependable solutions.
+C++ is a long-standing love, but I believe in choosing the right tool for the job.
 
-<!--
-**apotocki/apotocki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I'm building
 
-![GitHub Repo stars](https://img.shields.io/github/stars/apotocki?style=social)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apotocki&count_private=true&theme=monokai)](https://github.com/apotocki/github-readme-stats)
+### [otok](https://github.com/otok-dev/otok)
 
-Here are some ideas to get you started:
+Getting third-party libraries into a project shouldn't be a recurring problem.
+otok builds native dependencies from source with the options and platforms your
+project needs, then integrates them with your build.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Apple &middot; Android &middot; Windows &middot; Linux**<br>
+[Repository](https://github.com/otok-dev/otok) &nbsp;/&nbsp;
+[Documentation](https://otok-dev.github.io/) &nbsp;/&nbsp;
+[Library catalog](https://otok-dev.github.io/index/)
+
+## Other projects
+
+- **[Numetron](https://github.com/apotocki/numetron)** — a work-in-progress C++ library exploring arbitrary-precision integers and decimals, including compile-time arithmetic.
+- **[Annium](https://github.com/apotocki/annium-lang)** — an experimental programming language, currently in development.
+- **[dataforge](https://github.com/apotocki/dataforge)** — composable C++20 data transformation pipelines.
+- **Apple XCFrameworks** — [Boost](https://github.com/apotocki/boost-iosx), [ICU](https://github.com/apotocki/icu4c-iosx), and [OpenSSL](https://github.com/apotocki/openssl-iosx) builds for Apple platforms.
+
+## Activity
+
+<img src="assets/profile-stats.svg" alt="GitHub statistics: public stars and commit contributions over the last 30 days">
+
+Stars are summed across public, non-fork repositories owned by
+[@apotocki](https://github.com/apotocki) and [otok-dev](https://github.com/otok-dev).
+Public commit contributions follow [GitHub's profile criteria](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference#contribution-criteria-for-commits)
+for the last 30 days. Statistics are updated daily by GitHub Actions; the last
+successful snapshot stays visible if an update fails.
