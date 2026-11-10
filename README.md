@@ -30,8 +30,5 @@ project needs, then integrates them with your build.
 
 <img src="assets/profile-stats.svg" alt="GitHub statistics: public stars and commit contributions over the last 30 days">
 
-Stars are summed across public, non-fork repositories owned by
-[@apotocki](https://github.com/apotocki) and [otok-dev](https://github.com/otok-dev).
-Public commit contributions follow [GitHub's profile criteria](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference#contribution-criteria-for-commits)
-for the last 30 days. Statistics are updated daily by GitHub Actions; the last
-successful snapshot stays visible if an update fails.
+Public stars across my repositories and otok-dev, excluding forks &middot;
+Public commit contributions in the last 30 days
