@@ -29,6 +29,11 @@ more time to the problems that matter to you.
 - **[Annium](https://github.com/apotocki/annium-lang)** — an experimental programming language, currently in development.
 - **[dataforge](https://github.com/apotocki/dataforge)** — composable C++20 data transformation pipelines.
 - **Apple XCFrameworks** — [Boost](https://github.com/apotocki/boost-iosx), [ICU](https://github.com/apotocki/icu4c-iosx), and [OpenSSL](https://github.com/apotocki/openssl-iosx) builds for Apple platforms.
+- **PotoHEX / Otok Hex** — mobile tools for inspecting binary files.<br>
+  <a href="https://apps.apple.com/us/app/potohex/id1620963302"><img src="assets/potohex.webp" width="48" alt="PotoHEX for iOS"></a>
+  &nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.potohex"><img src="assets/otok.png" width="48" alt="Otok Hex for Android"></a><br>
+  [App Store](https://apps.apple.com/us/app/potohex/id1620963302) &middot; [Google Play](https://play.google.com/store/apps/details?id=com.potohex)
 
 ## Activity
 
